@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fintechathon-Http-Demo</string>
+    <string name="generic_error_string">Something went wrong :(</string>
+</resources>
